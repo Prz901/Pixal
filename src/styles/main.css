@@ -1,0 +1,53 @@
+.left-60 {
+  left: 60%;
+}
+.left-40 {
+  left: 40%;
+}
+.left-30 {
+  left: 30%;
+}
+.left-25 {
+  left: 25%;
+}
+
+.left-20 {
+  left: 20%;
+}
+.left-10 {
+  left: 10%;
+}
+
+.lamp {
+  height: 40%;
+}
+
+.bottom-10 {
+  bottom: 10%;
+}
+
+.bottom-20 {
+  bottom: 20%;
+}
+.bottom-30 {
+  bottom: 30%;
+}
+.bottom-40 {
+  bottom: 40%;
+}
+.bottom-50 {
+  bottom: 50%;
+}
+.bottom-60 {
+  bottom: 60%;
+}
+.bottom-70 {
+  bottom: 70%;
+}
+
+.tracking-text {
+  letter-spacing: 0.3em;
+}
+.tracking-subtitle {
+  letter-spacing: 0.2em;
+}
